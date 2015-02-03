@@ -12,7 +12,7 @@ Stable tag: 1.0
 
 ### Description
 
-Forces an Events Manager user to select a single ticket type from those available.
+Forces an WordPress [Events Manager](http://wp-events-plugin.com/) user to select a single ticket type from those available.
 
 Modifies the Events booking form ticket list so that instead of having select drop downs per each ticket, there is a single checkbox per ticket, for which a user can only select a single ticket. This is designed for use where there is a requirement to allow a user to purchase just a single ticket per booking, chosing the ticket type they want.
 
